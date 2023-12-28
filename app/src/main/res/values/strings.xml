@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">sample</string>
+
+//empty_cart
+
+    <string name="empty">
+\nYour Cart is Empty
+\nAdd items to Buy
+
+</string>
+
+
+</resources>
